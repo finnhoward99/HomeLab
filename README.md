@@ -150,7 +150,9 @@ Troubleshooting processes, causes and lessons learned are documented within indi
 
 ## Current Learning Focus
 
-I am currently completing a Certificate IV in Cyber Security while using this lab to develop practical experience beyond coursework.
+I am currently completing a Certificate IV in Cyber Security, where I have been introduced to a broad range of IT, networking and cybersecurity concepts. This homelab allows me to put those concepts into practice, strengthen my understanding through hands-on experience, and expand my learning beyond the coursework.
+
+Rather than only following guided exercises, I use the lab to build and administer systems, experiment with configurations, troubleshoot real problems, and document what I learn.
 
 Current areas of focus include:
 
