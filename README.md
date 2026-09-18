@@ -67,8 +67,7 @@ The current lab operates on a private IPv4 network using RFC1918 addressing.
 Detailed network architecture and diagrams are documented separately within this repository.
 
 ## Projects
-
-### Proxmox Virtualisation Lab
+### [Proxmox Virtualisation Lab](projects/proxmox-homelab.md)
 
 Built and administer a dedicated Proxmox VE server for creating and managing Windows and Linux virtual machines.
 
@@ -88,7 +87,7 @@ Areas of practical experience include:
 - CPU, memory and storage performance monitoring
 - Host and VM troubleshooting
 
-### Linux Game Server Administration
+### [Linux Game Server Administration](projects/minecraft-server.md)
 
 Deployed and administered a Fabric Minecraft server on an Ubuntu Server virtual machine.
 
